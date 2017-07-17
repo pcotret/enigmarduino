@@ -158,6 +158,7 @@ void setup()
   Serial.begin(57600);
   lcd.begin(16, 2);
   pinMode(LCDPIN,INPUT);
+  pinMode(KEYBOARDPIN, INPUT_PULLUP); 
   InitRotors();
 }
 
