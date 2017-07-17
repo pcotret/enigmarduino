@@ -7,7 +7,7 @@ CentraleSupélec, Rennes campus, 2016/2017
 This project has been realized by Etienne Lesot and Hugo Kyhm (1st year students 16/17 at CentraleSupélec, Rennes campus) for a short-term project under the supervision of Dr. Pascal Cotret.
 
 ## Goals of this project
-We were inspired by the project realized by Marion Georges and Tanguy xxx who made a mechanical replica of a 2-rotor Enigma ciphering machine with lots of 3D-printed parts (details available at: https://pascalr2blog.wordpress.com/3d-printing/enigma-replica/). However, the replica made by Marion and Tanguy had some drawbacks… The main one is the rotor itself:
+We were inspired by the project realized by Marion Georges and Tanguy Compagnon de la Servette who made a mechanical replica of a 2-rotor Enigma ciphering machine with lots of 3D-printed parts (details available at: https://pascalr2blog.wordpress.com/3d-printing/enigma-replica/). However, the replica made by Marion and Tanguy had some drawbacks… The main one is the rotor itself:
 * Metal connectors were not well fixed.
 * All the circuitry inside a rotor has been completely hand-made: quite hard to assemble, risks of short-circuits.
   That is the reason why we decided to replace rotors by a single microcontroller-based board while keeping a physical keyboard: our EnigmArduino was born!
