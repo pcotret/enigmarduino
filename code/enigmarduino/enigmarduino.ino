@@ -37,6 +37,7 @@ class Rotor
  * Input: None
  * Output: None
  */
+/*THERE'S SOMETHING wrong here. WE COPY/PASTED THE C++ CODE... JUST REPLACE COUT BY SERIAL.PRINTLN*/
 void Rotor::DisplayWiring()
 {
   int i,j;
