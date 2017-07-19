@@ -1,5 +1,5 @@
 # EnigmArduino – On the road to an Arduino-powered ciphering machine
-Etienne Lesot, Hugo Kyhm
+### Etienne Lesot, Hugo Kyhm
 
 CentraleSupélec, Rennes campus, 2016/2017
 ![montage](https://raw.githubusercontent.com/pcotret/enigmarduino/master/img/montage.png)
